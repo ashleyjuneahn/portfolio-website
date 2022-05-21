@@ -1,4 +1,15 @@
-
+@media only screen and (max-width: 768px) {
+  .h1 {
+      width: 100%;
+    }
+  .bio p {
+      width: 100%;
+    }
+  .headshot {
+    height: auto;
+    width: 100%;
+    }
+}
 
 .navbar {
     position: sticky;
@@ -41,6 +52,7 @@ h1 {
     padding-top: 4%;
     font-size: 18px;
 }
+
 .social-media {
     padding-top: 13%;
     text-align: center;
