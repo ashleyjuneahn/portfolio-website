@@ -1,0 +1,124 @@
+
+
+.navbar {
+    position: sticky;
+    z-index: 100;
+    top: 0;
+    background-color: #000;
+    opacity: 0.6;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-item {
+    padding: 20px;
+}
+.navbar-item a {
+    color: #fafafa;
+    text-decoration: none;
+    font-family: Vidaloka;
+}
+.navbar-item a:hover {
+    color: #b7fcfc;
+}
+
+body {
+    font-family: 'Roboto';
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #000;
+    color: #b3d7e6;
+}
+
+h1 {
+    position: relative;
+    font-size: 60px;
+    padding-top: 5%;
+    font-family: 'Vidaloka';
+}
+
+.bio p {
+    position: relative;
+    padding-top: 4%;
+    font-size: 18px;
+}
+.social-media {
+    padding-top: 13%;
+    text-align: center;
+}
+.social-media a {
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    margin: 4%;
+    width: 10%;
+}
+.fa-twitter {
+    color: #00aced;
+}
+.fa-linkedin {
+    color: #0077b5;
+}
+.fa-github {
+    color: #fafafa;
+}
+
+.headshot {
+    padding-top: 3%;
+    padding-left: 5%;
+    max-width: 100%;
+    height: auto;
+}
+
+h3 {
+    font-size: 30px;
+    padding-top: 17%;
+    padding-bottom: 5%;
+    font-family: Vidaloka;
+}
+.card {
+    height: 320px;
+    max-width: 100%;
+    margin: 1rem;
+    background-color: #202020;
+}
+.card-img-top {
+    height: 100%;
+    width: auto;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+.card-title {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 23px;
+}
+.card-title a {
+    text-decoration: none;
+    text-align: center;
+    color: #000;
+}
+.card-title a:hover {
+    color: #5bbde7;
+}
+.card-descrip {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    color: #000;
+    position: relative;
+    top: 15%;
+}
+.card:hover {
+    opacity: 0.7;
+}
+
+.card-logo {
+    max-width: 130px;
+    max-height: auto;
+    text-align: center;
+    margin-top: auto;
+    color: #000;
+}
