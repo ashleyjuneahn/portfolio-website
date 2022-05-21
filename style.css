@@ -1,9 +1,13 @@
 @media only screen and (max-width: 768px) {
   .h1 {
-      width: 100%;
+      width: auto;
+      display: flex;
+      float: none;
     }
   .bio p {
-      width: 100%;
+      width: auto;
+      display: flex;
+      float: none;
     }
   .headshot {
     height: auto;
