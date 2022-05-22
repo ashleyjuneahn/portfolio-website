@@ -86,6 +86,10 @@ h3 {
 .card-img-top {
     height: 100%;
     width: auto;
+    background: linear-gradient(
+                 rgba(0, 0, 0, 0.5),
+                 rgba(0, 0, 0, 0.5)
+                 );
 }
 .card-body {
     display: flex;
@@ -126,4 +130,5 @@ h3 {
 .card-creds {
     writing-mode: vertical-lr;
     color: #fafafa;
+    text-align: left;
 }
