@@ -123,3 +123,6 @@ h3 {
     margin-top: auto;
     color: #000;
 }
+.card-creds {
+    writing-mode: vertical-lr;
+}
