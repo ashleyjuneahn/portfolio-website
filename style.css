@@ -1,18 +1,4 @@
-@media only screen and (max-width: 768px) {
-  .h1 {
-      width: 100%;
-      display: flex;
-    }
-  .p {
-    width: 100%;
-    padding-top: 5%;
-    display: flex;
-  }
-  .headshot {
-    height: auto;
-    width: 100%;
-    }
-}
+
 
 .navbar {
     position: sticky;
