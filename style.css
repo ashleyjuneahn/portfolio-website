@@ -1,11 +1,9 @@
 @media only screen and (max-width: 768px) {
-  .h1 {
-      width: auto;
-      display: flex;
-      float: none;
-    }
-  .bio p {
-      width: auto;
+  .home {
+    display: flex;
+  }
+  .bio {
+      width: 100%;
       display: flex;
       float: none;
     }
@@ -13,6 +11,13 @@
     height: auto;
     width: 100%;
     }
+  .writingrow {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card {
+    width: 50%;
+  }
 }
 
 .navbar {
@@ -53,7 +58,7 @@ h1 {
 
 .bio p {
     position: relative;
-    padding-top: 4%;
+    padding-top: 6%;
     font-size: 18px;
 }
 
