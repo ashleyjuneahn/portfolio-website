@@ -99,7 +99,7 @@ h3 {
 .card-title a {
     text-decoration: none;
     text-align: center;
-    color: #000;
+    color: #fafafa;
 }
 .card-title a:hover {
     color: #5bbde7;
@@ -125,4 +125,5 @@ h3 {
 }
 .card-creds {
     writing-mode: vertical-lr;
+    color: #fafafa;
 }
