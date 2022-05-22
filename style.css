@@ -128,7 +128,7 @@ h3 {
     color: #000;
 }
 .card-creds {
-    writing-mode: vertical-lr;
+    writing-mode: vertical-rl;
     color: #fafafa;
     text-align: left;
 }
