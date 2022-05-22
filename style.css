@@ -1,12 +1,13 @@
 @media only screen and (max-width: 768px) {
-  .home {
-    display: flex;
-  }
-  .h1, .p {
+  .h1 {
       width: 100%;
       display: flex;
-      float: none;
     }
+  .p {
+    width: 100%;
+    padding-top: 5%;
+    display: flex;
+  }
   .headshot {
     height: auto;
     width: 100%;
