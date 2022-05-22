@@ -2,7 +2,7 @@
   .home {
     display: flex;
   }
-  .bio {
+  .h1, .p {
       width: 100%;
       display: flex;
       float: none;
@@ -11,13 +11,6 @@
     height: auto;
     width: 100%;
     }
-  .writingrow {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .card {
-    width: 50%;
-  }
 }
 
 .navbar {
