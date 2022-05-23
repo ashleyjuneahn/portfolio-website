@@ -10,7 +10,7 @@
     top: 0;
     background-color: #000;
     opacity: 0.6;
-    padding: 0px;
+    padding-top: 2%;
     margin: 0px;
 }
 .navbar-item {
@@ -23,6 +23,10 @@
 }
 .navbar-item a:hover {
     color: #b7fcfc;
+}
+.navbar-toggler {
+    padding-top: 7%;
+    padding-bottom: 4%;
 }
 
 body {
