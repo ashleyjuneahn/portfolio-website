@@ -138,6 +138,11 @@ h3 {
     margin-top: auto;
     color: #000;
 }
+#usatoday {
+    max-width: 200px;
+    max-height: auto;
+}
+
 .card-creds {
     position: absolute;
     bottom: 0;
