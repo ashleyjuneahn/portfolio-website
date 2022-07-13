@@ -152,3 +152,22 @@ h3 {
     writing-mode: vertical-rl;
     font-size: 10px;
 }
+
+.gif video {
+    border: 10px solid #b3d7e6;
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+    height: 600px;
+}
+.gif p {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 900px;
+    font-size: 18px;
+}
+
+a {
+    color: #fafafa;
+}
