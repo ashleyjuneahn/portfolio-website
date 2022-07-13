@@ -2,6 +2,10 @@
     .navbar {
         padding-right: 0%;
     }
+    .gif video {
+        height: 50%;
+        width: 100%;
+    }
 }
     
 .navbar {
