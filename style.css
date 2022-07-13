@@ -158,14 +158,15 @@ h3 {
     border: 10px solid #b3d7e6;
     display: block;
     margin: 0 auto;
-    width: 1000px;
+    width: 100%;
+    height: auto;
     height: 700px;
 }
 .gif p {
     text-align: center;
     display: block;
     margin: 0 auto;
-    width: 1000px;
+    width: 100%;
     font-size: 20px;
 }
 
