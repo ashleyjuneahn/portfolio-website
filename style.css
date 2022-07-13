@@ -15,6 +15,7 @@
 }
 .navbar-item {
     padding: 20px;
+    font-size: 20px;
 }
 .navbar-item a {
     color: #fafafa;
@@ -39,7 +40,7 @@ body {
 
 h1 {
     position: relative;
-    font-size: 60px;
+    font-size: 65px;
     padding-top: 5%;
     font-family: 'Vidaloka';
 }
@@ -47,7 +48,7 @@ h1 {
 .bio p {
     position: relative;
     padding-top: 6%;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .social-media {
@@ -55,7 +56,7 @@ h1 {
     text-align: center;
 }
 .social-media a {
-    font-size: 30px;
+    font-size: 33px;
     display: flex;
     text-align: center;
     text-decoration: none;
@@ -80,7 +81,7 @@ h1 {
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 33px;
     padding-top: 17%;
     padding-bottom: 5%;
     font-family: Vidaloka;
@@ -109,7 +110,7 @@ h3 {
 .card-title {
     text-align: center;
     font-family: Roboto;
-    font-size: 23px;
+    font-size: 25px;
 }
 .card-title a {
     text-decoration: none;
@@ -122,7 +123,7 @@ h3 {
 .card-descrip {
     text-align: center;
     font-family: Roboto;
-    font-size: 17px;
+    font-size: 20px;
     color: #fafafa;
     position: relative;
     top: 15%;
@@ -165,7 +166,7 @@ h3 {
     display: block;
     margin: 0 auto;
     width: 900px;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 a {
