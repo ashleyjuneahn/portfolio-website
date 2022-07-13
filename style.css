@@ -15,7 +15,7 @@
 }
 .navbar-item {
     padding: 20px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .navbar-item a {
     color: #fafafa;
@@ -48,7 +48,7 @@ h1 {
 .bio p {
     position: relative;
     padding-top: 6%;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .social-media {
