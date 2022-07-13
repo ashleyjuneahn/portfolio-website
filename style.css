@@ -48,7 +48,7 @@ h1 {
 .bio p {
     position: relative;
     padding-top: 6%;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .social-media {
@@ -56,7 +56,7 @@ h1 {
     text-align: center;
 }
 .social-media a {
-    font-size: 33px;
+    font-size: 32px;
     display: flex;
     text-align: center;
     text-decoration: none;
@@ -110,7 +110,7 @@ h3 {
 .card-title {
     text-align: center;
     font-family: Roboto;
-    font-size: 25px;
+    font-size: 23px;
 }
 .card-title a {
     text-decoration: none;
@@ -123,7 +123,7 @@ h3 {
 .card-descrip {
     text-align: center;
     font-family: Roboto;
-    font-size: 20px;
+    font-size: 18px;
     color: #fafafa;
     position: relative;
     top: 15%;
@@ -166,7 +166,7 @@ h3 {
     display: block;
     margin: 0 auto;
     width: 900px;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 a {
