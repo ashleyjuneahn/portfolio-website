@@ -181,4 +181,12 @@ a {
         padding: 0%;
         border: 5px solid #b3d7e6;
     }
+    .homerow {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .headshot {
+        padding-left: 0%;
+    }
+    
 }
