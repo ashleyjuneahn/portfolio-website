@@ -5,6 +5,7 @@
     .gif video {
         height: auto;
         width: 100%;
+        border: 5px solid #b3d7e6;
     }
 }
     
