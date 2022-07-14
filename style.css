@@ -5,6 +5,7 @@
     background-color: #000;
     opacity: 0.6;
     padding-top: 2%;
+    padding-left: 5%;
     margin: 0px;
 }
 .navbar-item {
@@ -28,7 +29,7 @@
     height: auto;
     text-align: center;
     display: block;
-    padding-top: 5%;
+    padding-top: 3%;
 }
 
 body {
@@ -181,6 +182,9 @@ a {
         width: 100%;
         padding: 0%;
         border: 5px solid #b3d7e6;
+    }
+    .headshot {
+        padding-left: 0%;
     }
     
 }
