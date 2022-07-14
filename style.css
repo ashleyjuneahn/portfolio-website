@@ -159,14 +159,11 @@ h3 {
     width: 70%;
     height: auto;
 }
-.gif p {
+.gif p, .more {
     text-align: left;
     display: block;
     margin: 0 auto;
     width: 70%;
-    font-size: 20px;
-}
-.more {
     font-size: 20px;
 }
 a {
