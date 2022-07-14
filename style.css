@@ -23,6 +23,10 @@
     padding-top: 7%;
     padding-bottom: 4%;
 }
+.headshot {
+    max-width: 100%;
+    height: auto;
+}
 
 body {
     font-family: 'Roboto';
