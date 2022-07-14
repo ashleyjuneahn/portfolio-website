@@ -172,12 +172,13 @@ a {
         padding-right: 0%;
     }
     body {
-        padding-left: 0%;
-        padding-right: 0%;
+        padding-left: 5%;
+        padding-right: 5%;
     }
     .gif video {
         height: auto;
         width: 100%;
-        border: 3px solid #b3d7e6;
+        padding: 0%;
+        border: 5px solid #b3d7e6;
     }
 }
