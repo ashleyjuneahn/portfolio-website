@@ -3,7 +3,7 @@
         padding-right: 0%;
     }
     .gif video {
-        height: 80%;
+        height: auto;
         width: 100%;
     }
 }
@@ -166,7 +166,7 @@ h3 {
     height: auto;
 }
 .gif p {
-    text-align: center;
+    text-align: left;
     display: block;
     margin: 0 auto;
     width: 80%;
