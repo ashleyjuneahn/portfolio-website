@@ -68,10 +68,10 @@ h1 {
 }
 
 .headshot {
-    padding-top: 3%;
-    padding-left: 5%;
     max-width: 100%;
     height: auto;
+    margin: 0 auto;
+    display: block;
 }
 
 h3 {
