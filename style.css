@@ -161,10 +161,10 @@ h3 {
 .gfx img {
     display: block;
     margin: 0 auto;
-    width: 50%;
+    width: 20%;
     height: auto;
 }
-.gif p, .more {
+.gfx p, .more {
     text-align: left;
     display: block;
     margin: 0 auto;
