@@ -152,7 +152,14 @@ h3 {
     font-size: 10px;
 }
 
-.gif video img {
+.gif video {
+    border: 10px solid #b3d7e6;
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+}
+.gif img {
     border: 10px solid #b3d7e6;
     display: block;
     margin: 0 auto;
