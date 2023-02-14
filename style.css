@@ -158,11 +158,10 @@ h3 {
     width: 70%;
     height: auto;
 }
-.gif img {
-    border: 10px solid #b3d7e6;
+.gfx img {
     display: block;
     margin: 0 auto;
-    width: 70%;
+    width: 50%;
     height: auto;
 }
 .gif p, .more {
