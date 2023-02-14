@@ -50,10 +50,14 @@ h1 {
 }
 
 .bio p {
-    color: #b3d7e6
+    color: #b3d7e6;
     position: relative;
     padding-top: 6%;
     font-size: 19px;
+}
+
+.bio a {
+    color: #b3d7e6;
 }
 
 .social-media {
@@ -171,6 +175,10 @@ h3 {
     margin: 0 auto;
     width: 50%;
     font-size: 20px;
+}
+
+.gfx a {
+    color: #b3d7e6;
 }
 
 a:hover {
