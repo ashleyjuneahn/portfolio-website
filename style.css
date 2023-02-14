@@ -149,25 +149,27 @@ h3 {
     writing-mode: vertical-rl;
     font-size: 10px;
 }
-
+a {
+    color: #b3d7e6 !important; 
+}
 .gfx video {
     border: 10px solid #b3d7e6;
     display: block;
     margin: 0 auto;
-    width: 70%;
+    width: 50%;
     height: auto;
 }
 .gfx img {
     display: block;
     margin: 0 auto;
-    width: 40%;
+    width: 50%;
     height: auto;
 }
 .gfx p, .more {
     text-align: left;
     display: block;
     margin: 0 auto;
-    width: 70%;
+    width: 50%;
     font-size: 20px;
 }
 
