@@ -13,6 +13,7 @@
     font-size: 18px;
 }
 .navbar-item a {
+    color: #fafafa;
     text-decoration: none;
     font-family: Vidaloka;
 }
@@ -49,6 +50,7 @@ h1 {
 }
 
 .bio p {
+    color: #b3d7e6
     position: relative;
     padding-top: 6%;
     font-size: 19px;
@@ -149,9 +151,6 @@ h3 {
     writing-mode: vertical-rl;
     font-size: 10px;
 }
-a {
-    color: #b3d7e6 !important; 
-}
 .gfx video {
     border: 10px solid #b3d7e6;
     display: block;
@@ -166,6 +165,7 @@ a {
     height: auto;
 }
 .gfx p, .more {
+    color: #b3d7e6
     text-align: left;
     display: block;
     margin: 0 auto;
