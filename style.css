@@ -94,6 +94,13 @@ h3 {
     margin: 1rem;
     background-color: #202020;
 }
+
+.card-img-top-gfx {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+}
+
 .card-img-top {
     height: 100%;
     width: auto;
