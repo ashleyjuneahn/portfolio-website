@@ -169,7 +169,7 @@ h3 {
     writing-mode: vertical-rl;
     font-size: 10px;
 }
-.gfx video {
+video {
     border: 10px solid #b3d7e6;
     display: block;
     margin: 0 auto;
