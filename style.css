@@ -206,11 +206,10 @@ a:hover {
         padding-left: 5%;
         padding-right: 5%;
     }
-    .gif video {
+    video {
         height: auto;
         width: 100%;
         padding: 0%;
-        border: 5px solid #b3d7e6;
     }
     .headshot {
         padding-left: 0%;
