@@ -175,6 +175,7 @@ h3 {
     width: 50%;
     height: auto;
 }
+/*
 .gfx p, .more {
     color: #b3d7e6
     text-align: left;
@@ -187,9 +188,10 @@ h3 {
 .gfx a {
     color: #b3d7e6;
 }
+*/
 
 a:hover {
-    color: rgb(87, 255, 255);
+    color: #f0f8ff;
 }
 
 @media only screen and (max-width: 600px) {
