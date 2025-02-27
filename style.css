@@ -26,11 +26,11 @@
 }
 .headshot {
     max-width: 100%;
-    max-height: 90%;
+    max-height: 95%;
     text-align: center;
     display: block;
     padding-top: 3%;
-    padding-left: 8%;
+    padding-left: 3%;
 }
 
 body {
