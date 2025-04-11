@@ -191,11 +191,11 @@ h3 {
     color: #b3d7e6;
 }
 */
-
+/*
 a:hover {
     color: #f0f8ff;
 }
-
+*/
 @media only screen and (max-width: 600px) {
     .navbar {
         padding-right: 0%;
